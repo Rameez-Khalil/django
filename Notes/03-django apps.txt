@@ -1,0 +1,5 @@
+DJANGO APPS: 
+    python manage.py startapp challenges
+
+    Django apps are building blocks or smaller packages that are interrelated with each other.
+    

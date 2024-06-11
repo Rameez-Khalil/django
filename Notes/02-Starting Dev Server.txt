@@ -1,0 +1,1 @@
+manage.py runserver - This command starts the server.
