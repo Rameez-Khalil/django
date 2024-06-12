@@ -1,7 +1,13 @@
 manage.py - This provides built-in django commands.
 root folder - A module for different python.
-wsgi and urls - Helpful for production, and these serve the python django application 
+wsgi and urls - Helpful for production, and these serve the python django application. 
 
 
 EDITABLE FILES: 
     Setting and Urls file are editable for us.
+
+
+//CREATE A PRIJECT.
+django-admin startproject mypage. 
+
+//RUN SERVER.

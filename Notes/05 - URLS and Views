@@ -1,0 +1,10 @@
+URLS: 
+    URLS - > resolves into a result / response.
+    Mapping certain actions to certain urls.
+
+VIEWS: 
+    Holding of concrete logic.
+    Function executed automatically by django when certain actions are called.
+
+
+    

@@ -1,0 +1,8 @@
+//CREATE A PRIJECT.
+django-admin startproject <name>.
+
+//ADD APPS.
+python manage.py startapp <name>
+
+//RUN SERVER.
+python manage.py runserver
